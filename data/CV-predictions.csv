@@ -1,0 +1,263 @@
+filename,type,prediction
+img_0001583.jpg,handwritten,text
+img_0000060.jpg,text,text
+img_0000544.jpg,paye,paye
+img_0000397.jpg,paye,paye
+img_0000555.jpg,paye,paye
+img_0000140.jpg,id_pieces,id_pieces
+img_0001180.jpg,text,text
+img_0000492.jpg,paye,text
+img_0001605.jpg,text,text
+img_0001344.jpg,text,text
+img_0001255.jpg,text,text
+img_0001386.jpg,text,text
+img_0000804.jpg,carte postale,carte postale
+img_0000535.jpg,paye,paye
+img_0001341.jpg,text,text
+img_0000181.jpg,id_pieces,carte postale
+img_0000703.jpg,carte postale,carte postale
+img_0000503.jpg,paye,text
+img_0001553.jpg,text,text
+img_0000294.jpg,passeport,passeport
+img_0001307.jpg,text,text
+img_0001189.jpg,text,text
+img_0001391.jpg,text,text
+img_0001183.jpg,text,text
+img_0001562.jpg,handwritten,handwritten
+img_0001256.jpg,text,text
+img_0001436.jpg,text,text
+img_0000803.jpg,carte postale,passeport
+img_0000485.jpg,paye,paye
+img_0000090.jpg,id_pieces,id_pieces
+img_0000234.jpg,text,text
+img_0000388.jpg,paye,paye
+img_0001288.jpg,advertisement,advertisement
+img_0001509.jpg,text,text
+img_0000347.jpg,passeport,passeport
+img_0000113.jpg,id_pieces,id_pieces
+img_0000035.jpg,text,text
+img_0001318.jpg,text,text
+img_0000668.jpg,carte postale,carte postale
+img_0001123.jpg,text,text
+img_0000456.jpg,paye,paye
+img_0000483.jpg,paye,paye
+img_0001362.jpg,text,text
+img_0001444.jpg,text,text
+img_0000686.jpg,carte postale,carte postale
+img_0001575.jpg,advertisement,text
+img_0000395.jpg,paye,paye
+img_0001543.jpg,text,text
+img_0000315.jpg,passeport,text
+img_0001538.jpg,text,text
+img_0000362.jpg,paye,paye
+img_0000188.jpg,id_pieces,id_pieces
+img_0000524.jpg,paye,paye
+img_0000166.jpg,id_pieces,id_pieces
+img_0000147.jpg,id_pieces,id_pieces
+img_0000547.jpg,paye,paye
+img_0001117.jpg,text,text
+img_0000645.jpg,carte postale,carte postale
+img_0001407.jpg,handwritten,handwritten
+img_0001393.jpg,text,text
+img_0000537.jpg,paye,paye
+img_0000501.jpg,paye,paye
+img_0001541.jpg,text,text
+img_0000506.jpg,paye,paye
+img_0001359.jpg,text,text
+img_0001595.jpg,advertisement,advertisement
+img_0000329.jpg,passeport,passeport
+img_0000033.jpg,text,text
+img_0000266.jpg,passeport,carte postale
+img_0001297.jpg,handwritten,text
+img_0001308.jpg,text,text
+img_0001394.jpg,advertisement,advertisement
+img_0000598.jpg,carte postale,carte postale
+img_0001219.jpg,text,text
+img_0000579.jpg,paye,paye
+img_0000767.jpg,carte postale,carte postale
+img_0000072.jpg,text,text
+img_0000085.jpg,id_pieces,id_pieces
+img_0001376.jpg,text,text
+img_0001229.jpg,text,text
+img_0000592.jpg,paye,paye
+img_0001423.jpg,text,text
+img_0001146.jpg,text,text
+img_0000348.jpg,passeport,passeport
+img_0000680.jpg,carte postale,carte postale
+img_0000369.jpg,paye,paye
+img_0001452.jpg,text,text
+img_0000637.jpg,carte postale,carte postale
+img_0001577.jpg,text,text
+img_0000175.jpg,id_pieces,passeport
+img_0001237.jpg,text,text
+img_0000739.jpg,carte postale,carte postale
+img_0000265.jpg,passeport,passeport
+img_0000415.jpg,paye,paye
+img_0001442.jpg,text,text
+img_0001206.jpg,advertisement,advertisement
+img_0001380.jpg,text,text
+img_0001603.jpg,text,text
+img_0000778.jpg,carte postale,carte postale
+img_0001479.jpg,text,text
+img_0000513.jpg,paye,paye
+img_0000275.jpg,passeport,passeport
+img_0000622.jpg,carte postale,paye
+img_0000237.jpg,text,text
+img_0001427.jpg,handwritten,handwritten
+img_0001419.jpg,text,text
+img_0000504.jpg,paye,paye
+img_0000523.jpg,paye,paye
+img_0001132.jpg,text,text
+img_0001573.jpg,text,text
+img_0000110.jpg,id_pieces,id_pieces
+img_0000066.jpg,text,paye
+img_0000587.jpg,paye,paye
+img_0000671.jpg,carte postale,carte postale
+img_0001240.jpg,text,text
+img_0000305.jpg,passeport,passeport
+img_0001536.jpg,handwritten,text
+img_0001160.jpg,text,text
+img_0000257.jpg,passeport,passeport
+img_0000092.jpg,id_pieces,id_pieces
+img_0000183.jpg,id_pieces,id_pieces
+img_0001262.jpg,text,text
+img_0001127.jpg,text,text
+img_0000477.jpg,paye,paye
+img_0001290.jpg,text,text
+img_0000122.jpg,id_pieces,id_pieces
+img_0001424.jpg,handwritten,handwritten
+img_0000087.jpg,id_pieces,id_pieces
+img_0001365.jpg,text,text
+img_0001520.jpg,advertisement,advertisement
+img_0000409.jpg,paye,paye
+img_0000588.jpg,paye,paye
+img_0000351.jpg,passeport,passeport
+img_0000099.jpg,id_pieces,id_pieces
+img_0000398.jpg,paye,paye
+img_0000522.jpg,paye,paye
+img_0000505.jpg,paye,paye
+img_0000227.jpg,text,text
+img_0001505.jpg,text,text
+img_0000124.jpg,id_pieces,paye
+img_0001420.jpg,text,text
+img_0001267.jpg,text,text
+img_0001221.jpg,text,text
+img_0001181.jpg,text,text
+img_0000444.jpg,paye,paye
+img_0001201.jpg,text,text
+img_0000117.jpg,id_pieces,id_pieces
+img_0001503.jpg,text,text
+img_0000125.jpg,id_pieces,id_pieces
+img_0000222.jpg,text,text
+img_0000146.jpg,id_pieces,id_pieces
+img_0000470.jpg,paye,paye
+img_0001282.jpg,text,text
+img_0000479.jpg,paye,paye
+img_0001271.jpg,text,text
+img_0001522.jpg,text,text
+img_0001518.jpg,text,text
+img_0001213.jpg,text,text
+img_0001164.jpg,text,text
+img_0000208.jpg,id_pieces,id_pieces
+img_0000143.jpg,id_pieces,id_pieces
+img_0000717.jpg,carte postale,carte postale
+img_0000123.jpg,id_pieces,id_pieces
+img_0001402.jpg,text,text
+img_0000650.jpg,carte postale,carte postale
+img_0001122.jpg,text,text
+img_0001525.jpg,text,text
+img_0000704.jpg,carte postale,carte postale
+img_0000449.jpg,paye,paye
+img_0001212.jpg,text,advertisement
+img_0001186.jpg,text,text
+img_0001184.jpg,text,text
+img_0000301.jpg,passeport,passeport
+img_0000202.jpg,id_pieces,id_pieces
+img_0001470.jpg,advertisement,advertisement
+img_0001533.jpg,text,text
+img_0000132.jpg,id_pieces,id_pieces
+img_0001151.jpg,advertisement,advertisement
+img_0000027.jpg,text,text
+img_0001284.jpg,text,text
+img_0001109.jpg,text,text
+img_0000201.jpg,id_pieces,id_pieces
+img_0001335.jpg,text,text
+img_0001200.jpg,text,text
+img_0001414.jpg,text,text
+img_0000685.jpg,carte postale,carte postale
+img_0000156.jpg,id_pieces,id_pieces
+img_0001285.jpg,text,text
+img_0001418.jpg,text,text
+img_0000069.jpg,text,paye
+img_0001521.jpg,text,text
+img_0001111.jpg,advertisement,advertisement
+img_0001446.jpg,text,text
+img_0000394.jpg,paye,paye
+img_0001144.jpg,handwritten,handwritten
+img_0001283.jpg,text,text
+img_0000232.jpg,text,text
+img_0001488.jpg,text,text
+img_0001434.jpg,text,text
+img_0000741.jpg,carte postale,carte postale
+img_0000160.jpg,id_pieces,id_pieces
+img_0001245.jpg,text,text
+img_0000021.jpg,text,text
+img_0000359.jpg,paye,paye
+img_0000198.jpg,id_pieces,id_pieces
+img_0001497.jpg,text,text
+img_0000423.jpg,paye,paye
+img_0001369.jpg,text,text
+img_0001276.jpg,text,text
+img_0001227.jpg,text,text
+img_0000632.jpg,carte postale,carte postale
+img_0000646.jpg,carte postale,carte postale
+img_0000148.jpg,id_pieces,id_pieces
+img_0000589.jpg,paye,passeport
+img_0000108.jpg,id_pieces,id_pieces
+img_0000593.jpg,paye,paye
+img_0001431.jpg,text,text
+img_0000406.jpg,paye,paye
+img_0000316.jpg,passeport,id_pieces
+img_0000169.jpg,id_pieces,id_pieces
+img_0000480.jpg,paye,carte postale
+img_0000228.jpg,text,text
+img_0000256.jpg,passeport,passeport
+img_0001404.jpg,text,text
+img_0000738.jpg,carte postale,carte postale
+img_0000272.jpg,passeport,passeport
+img_0001254.jpg,text,text
+img_0000499.jpg,paye,paye
+img_0000624.jpg,carte postale,carte postale
+img_0001317.jpg,text,text
+img_0000285.jpg,passeport,passeport
+img_0001493.jpg,text,text
+img_0000277.jpg,passeport,passeport
+img_0000386.jpg,paye,paye
+img_0001166.jpg,text,text
+img_0000400.jpg,paye,paye
+img_0001585.jpg,text,text
+img_0001499.jpg,text,text
+img_0000678.jpg,carte postale,carte postale
+img_0000255.jpg,passeport,id_pieces
+img_0001385.jpg,text,text
+img_0000221.jpg,text,text
+img_0000281.jpg,passeport,passeport
+img_0001169.jpg,text,text
+img_0001234.jpg,text,text
+img_0001178.jpg,advertisement,text
+img_0001555.jpg,text,text
+img_0001298.jpg,handwritten,text
+img_0000628.jpg,carte postale,carte postale
+img_0001371.jpg,text,text
+img_0000190.jpg,id_pieces,id_pieces
+img_0000350.jpg,passeport,passeport
+img_0000413.jpg,paye,paye
+img_0000652.jpg,carte postale,carte postale
+img_0001551.jpg,text,text
+img_0000290.jpg,passeport,passeport
+img_0001294.jpg,text,text
+img_0000154.jpg,id_pieces,id_pieces
+img_0000446.jpg,paye,paye
+img_0000497.jpg,paye,paye
+img_0000162.jpg,id_pieces,id_pieces
+img_0000286.jpg,passeport,carte postale

@@ -7,6 +7,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 import tensorflow as tf
+from sklearn import metrics
+import itertools
+from sklearn.metrics import classification_report
+import os.path
+import numpy as np
 
 def read_image(filename):
   return cv2.imread('../data/final/' + filename)
@@ -120,3 +125,96 @@ def load_image(directory, filename, preprocess, channels = 3, size = (224, 224))
     if preprocess:
         img = preprocess(img)
     return img
+
+
+
+"""
+METHOD TO GRAPHICAL DIPLAY THE CONFUSION MATRIX 
+"""
+
+def confusion_matrix(y_test, y_pred,classes=[]):
+    cnf_matrix = metrics.confusion_matrix(y_test, y_pred)
+    if (len(classes)==0):
+        extract_classes = pd.DataFrame(data = y_test.unique(), columns = ['classe']).sort_values(by = 'classe', ascending = True)
+        classes = extract_classes.classe #range(0,21)
+
+    plt.figure(figsize = (12, 12))
+
+    plt.imshow(cnf_matrix, interpolation = 'nearest', cmap = 'Blues')
+    plt.title("Confusion matrix")
+    plt.colorbar()
+    tick_marks = np.arange(len(classes))
+    plt.xticks(tick_marks, classes, rotation = 90)
+    plt.yticks(tick_marks, classes)
+
+    for i, j in itertools.product(range(cnf_matrix.shape[0]), range(cnf_matrix.shape[1])):
+        plt.text(j, i, cnf_matrix[i, j],
+                 horizontalalignment = "center",
+                 color = "white" if cnf_matrix[i, j] > ( cnf_matrix.max() / 2) else "black")
+
+    plt.ylabel('True labels')
+    plt.xlabel('Labels predicted')
+    plt.show()
+
+"""
+DISPLAY AND SAVE THE CLASSIFICATION REPORT 
+"""
+def global_classification_report(y_test, y_pred,classifier="None",category="None"):    
+    append = False
+    if(os.path.exists('../data/classification_report.csv')):
+        df = pd.read_csv('../data/classification_report.csv')
+        append = True
+  
+    report = classification_report(y_test, y_pred, output_dict=True)
+    df_report = pd.DataFrame(report).transpose().reset_index() 
+    df_report['classifier'] = classifier
+    df_report['category'] = category    
+    
+    if (append):
+        df = df.drop(df[(df['classifier']==classifier) & (df['category']==category)].index)
+        df = pd.concat([df, df_report])
+    else:
+        df = df_report
+        
+    df.to_csv('../data/classification_report.csv',index=False)
+    print(classification_report(y_test, y_pred))
+    
+"""
+METHOD TO GROUP CLASSES 
+"""
+# Replace current classes by new classes i.e by grouping certain classes together
+def replace_target(df):
+    new_classes =  { 'advertisement': 'other_types',
+                    'form'        : 'other_types',
+                   'handwritten' : 'other_types',
+                   'letter' : 'other_types',
+                    'memo': 'other_types',
+                    'presentation': 'other_types',
+                   'invoice' :'facture',
+                   'new_article': 'scientific_doc',
+                   'scientific_publication': 'scientific_doc',
+                   'scientific_report': 'scientific_doc'}
+
+    df = df.replace(new_classes)
+    # Creating dictionary
+    dico_type = {'facture': 0,
+                 'id_pieces': 1,
+                 'justif_domicile': 2,
+                 'passeport': 3,
+                 'paye': 4,
+                 'carte postale': 5,
+                 'other_types': 6,
+                 'scientific_doc': 7,
+                 'resume': 8,
+                 'specification': 9,
+                 'budget': 10,
+                 'file_folder': 11,
+                 'email': 12,
+                 'questionnaire': 13}
+
+    # Creating revert dictionary
+    dico_type_inv = {v: k for k, v in dico_type.items()}
+
+    # Convert types according to the dictionary
+    df['type_num'] = df.type.replace(dico_type)
+    df.head()

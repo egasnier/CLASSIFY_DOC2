@@ -1,0 +1,259 @@
+filename,type,prediction
+img_0000349.jpg,passport,passport
+img_0001119.jpg,other_types,scientific_doc
+img_0001293.jpg,questionnaire,specification
+img_0000286.jpg,passport,passport
+img_0000664.jpg,postcard,postcard
+img_0001442.jpg,scientific_doc,other_types
+img_0001455.jpg,specification,budget
+img_0001161.jpg,budget,scientific_doc
+img_0001506.jpg,file folder,other_types
+img_0001494.jpg,invoice,other_types
+img_0001505.jpg,specification,other_types
+img_0000638.jpg,postcard,postcard
+img_0000208.jpg,id piece,id piece
+img_0001479.jpg,invoice,invoice
+img_0000110.jpg,id piece,passport
+img_0000120.jpg,id piece,id piece
+img_0000369.jpg,pay,pay
+img_0000129.jpg,id piece,id piece
+img_0000670.jpg,postcard,postcard
+img_0001307.jpg,budget,budget
+img_0000598.jpg,postcard,postcard
+img_0001330.jpg,specification,other_types
+img_0001374.jpg,scientific_doc,questionnaire
+img_0001387.jpg,invoice,other_types
+img_0000437.jpg,pay,pay
+img_0000301.jpg,passport,passport
+img_0001537.jpg,budget,budget
+img_0000422.jpg,pay,pay
+img_0001169.jpg,questionnaire,invoice
+img_0001402.jpg,other_types,other_types
+img_0001214.jpg,email,email
+img_0000333.jpg,passport,passport
+img_0001480.jpg,other_types,other_types
+img_0000558.jpg,pay,residence proof
+img_0000658.jpg,postcard,postcard
+img_0000786.jpg,postcard,postcard
+img_0001302.jpg,other_types,other_types
+img_0000222.jpg,residence proof,residence proof
+img_0000033.jpg,invoice,invoice
+img_0000085.jpg,id piece,id piece
+img_0001227.jpg,specification,other_types
+img_0000130.jpg,id piece,id piece
+img_0000557.jpg,pay,pay
+img_0001483.jpg,other_types,other_types
+img_0001284.jpg,other_types,other_types
+img_0000340.jpg,passport,passport
+img_0000635.jpg,postcard,postcard
+img_0000538.jpg,pay,pay
+img_0000739.jpg,postcard,postcard
+img_0000707.jpg,postcard,postcard
+img_0001262.jpg,email,scientific_doc
+img_0000150.jpg,id piece,id piece
+img_0000602.jpg,postcard,postcard
+img_0000384.jpg,pay,pay
+img_0000060.jpg,invoice,invoice
+img_0001249.jpg,other_types,pay
+img_0000276.jpg,passport,passport
+img_0000199.jpg,id piece,id piece
+img_0001232.jpg,file folder,file folder
+img_0001452.jpg,email,email
+img_0001521.jpg,other_types,other_types
+img_0000690.jpg,postcard,postcard
+img_0000072.jpg,invoice,invoice
+img_0000654.jpg,postcard,postcard
+img_0001491.jpg,file folder,other_types
+img_0000257.jpg,passport,passport
+img_0000385.jpg,pay,pay
+img_0001522.jpg,other_types,other_types
+img_0000115.jpg,id piece,id piece
+img_0000370.jpg,pay,pay
+img_0001453.jpg,file folder,file folder
+img_0000460.jpg,pay,pay
+img_0000768.jpg,postcard,postcard
+img_0000444.jpg,pay,pay
+img_0000450.jpg,pay,pay
+img_0001134.jpg,scientific_doc,scientific_doc
+img_0001519.jpg,invoice,invoice
+img_0001324.jpg,scientific_doc,scientific_doc
+img_0001517.jpg,email,other_types
+img_0000409.jpg,pay,invoice
+img_0000247.jpg,residence proof,residence proof
+img_0000468.jpg,pay,pay
+img_0001392.jpg,email,email
+img_0001443.jpg,resume,pay
+img_0001270.jpg,file folder,scientific_doc
+img_0000126.jpg,id piece,id piece
+img_0000545.jpg,pay,pay
+img_0000254.jpg,passport,passport
+img_0001267.jpg,email,email
+img_0001173.jpg,scientific_doc,scientific_doc
+img_0000087.jpg,id piece,id piece
+img_0001441.jpg,resume,resume
+img_0000615.jpg,postcard,postcard
+img_0001241.jpg,scientific_doc,scientific_doc
+img_0000221.jpg,residence proof,invoice
+img_0001393.jpg,other_types,other_types
+img_0000350.jpg,passport,passport
+img_0000527.jpg,pay,pay
+img_0001508.jpg,other_types,scientific_doc
+img_0001595.jpg,other_types,other_types
+img_0000156.jpg,id piece,id piece
+img_0000099.jpg,id piece,id piece
+img_0000535.jpg,pay,pay
+img_0001112.jpg,other_types,scientific_doc
+img_0001290.jpg,other_types,email
+img_0000292.jpg,passport,passport
+img_0001565.jpg,specification,invoice
+img_0001154.jpg,other_types,other_types
+img_0001486.jpg,other_types,other_types
+img_0000710.jpg,postcard,postcard
+img_0001523.jpg,other_types,other_types
+img_0001191.jpg,scientific_doc,other_types
+img_0001125.jpg,scientific_doc,scientific_doc
+img_0001258.jpg,scientific_doc,other_types
+img_0000345.jpg,passport,passport
+img_0000431.jpg,pay,pay
+img_0001530.jpg,scientific_doc,scientific_doc
+img_0000609.jpg,postcard,postcard
+img_0001299.jpg,resume,scientific_doc
+img_0001310.jpg,scientific_doc,scientific_doc
+img_0000526.jpg,pay,pay
+img_0000694.jpg,postcard,postcard
+img_0000248.jpg,residence proof,residence proof
+img_0001315.jpg,other_types,scientific_doc
+img_0001473.jpg,specification,specification
+img_0001205.jpg,email,budget
+img_0001363.jpg,scientific_doc,scientific_doc
+img_0000540.jpg,pay,pay
+img_0000183.jpg,id piece,id piece
+img_0000168.jpg,id piece,id piece
+img_0000127.jpg,id piece,id piece
+img_0001340.jpg,specification,specification
+img_0000397.jpg,pay,pay
+img_0001152.jpg,budget,invoice
+img_0000689.jpg,postcard,postcard
+img_0000435.jpg,pay,pay
+img_0000193.jpg,id piece,id piece
+img_0000314.jpg,passport,passport
+img_0001585.jpg,other_types,other_types
+img_0001325.jpg,other_types,email
+img_0001534.jpg,file folder,file folder
+img_0001242.jpg,other_types,other_types
+img_0000672.jpg,postcard,postcard
+img_0001151.jpg,other_types,other_types
+img_0001287.jpg,other_types,other_types
+img_0000573.jpg,pay,pay
+img_0000173.jpg,id piece,passport
+img_0000284.jpg,passport,passport
+img_0001305.jpg,other_types,residence proof
+img_0001130.jpg,invoice,other_types
+img_0000705.jpg,postcard,postcard
+img_0000069.jpg,invoice,pay
+img_0001445.jpg,scientific_doc,scientific_doc
+img_0000544.jpg,pay,pay
+img_0001332.jpg,other_types,scientific_doc
+img_0001306.jpg,file folder,file folder
+img_0000586.jpg,pay,pay
+img_0001142.jpg,budget,invoice
+img_0000667.jpg,postcard,postcard
+img_0000774.jpg,postcard,postcard
+img_0001216.jpg,scientific_doc,scientific_doc
+img_0001211.jpg,scientific_doc,other_types
+img_0000337.jpg,passport,passport
+img_0001217.jpg,other_types,invoice
+img_0000391.jpg,pay,pay
+img_0000574.jpg,pay,pay
+img_0001153.jpg,other_types,other_types
+img_0000465.jpg,pay,invoice
+img_0000506.jpg,pay,pay
+img_0001481.jpg,other_types,other_types
+img_0000521.jpg,pay,pay
+img_0001574.jpg,budget,questionnaire
+img_0000228.jpg,residence proof,residence proof
+img_0001319.jpg,scientific_doc,other_types
+img_0001556.jpg,scientific_doc,file folder
+img_0001526.jpg,other_types,other_types
+img_0000186.jpg,id piece,id piece
+img_0001189.jpg,other_types,scientific_doc
+img_0000787.jpg,postcard,passport
+img_0000285.jpg,passport,passport
+img_0001113.jpg,resume,resume
+img_0000252.jpg,passport,passport
+img_0000650.jpg,postcard,postcard
+img_0000522.jpg,pay,invoice
+img_0000611.jpg,postcard,postcard
+img_0000674.jpg,postcard,postcard
+img_0001172.jpg,invoice,questionnaire
+img_0000569.jpg,pay,pay
+img_0001139.jpg,invoice,other_types
+img_0000499.jpg,pay,pay
+img_0000275.jpg,passport,passport
+img_0001425.jpg,specification,scientific_doc
+img_0001568.jpg,budget,pay
+img_0001206.jpg,other_types,other_types
+img_0001607.jpg,scientific_doc,scientific_doc
+img_0000678.jpg,postcard,postcard
+img_0000417.jpg,pay,pay
+img_0000440.jpg,pay,pay
+img_0000747.jpg,postcard,postcard
+img_0000466.jpg,pay,pay
+img_0000242.jpg,residence proof,residence proof
+img_0000517.jpg,pay,pay
+img_0000467.jpg,pay,pay
+img_0000721.jpg,postcard,postcard
+img_0000336.jpg,passport,postcard
+img_0000580.jpg,pay,pay
+img_0001208.jpg,email,email
+img_0000381.jpg,pay,pay
+img_0000108.jpg,id piece,id piece
+img_0000519.jpg,pay,pay
+img_0000295.jpg,passport,passport
+img_0001122.jpg,other_types,scientific_doc
+img_0001426.jpg,other_types,other_types
+img_0000702.jpg,postcard,postcard
+img_0001281.jpg,other_types,other_types
+img_0000402.jpg,pay,pay
+img_0001381.jpg,other_types,other_types
+img_0000777.jpg,postcard,postcard
+img_0001225.jpg,scientific_doc,scientific_doc
+img_0000227.jpg,residence proof,residence proof
+img_0001156.jpg,specification,questionnaire
+img_0001219.jpg,budget,other_types
+img_0000559.jpg,pay,pay
+img_0000507.jpg,pay,pay
+img_0000798.jpg,postcard,file folder
+img_0001449.jpg,other_types,scientific_doc
+img_0000201.jpg,id piece,id piece
+img_0000326.jpg,passport,passport
+img_0000083.jpg,id piece,id piece
+img_0000708.jpg,postcard,pay
+img_0000424.jpg,pay,pay
+img_0000062.jpg,invoice,invoice
+img_0001447.jpg,other_types,other_types
+img_0001603.jpg,budget,other_types
+img_0000632.jpg,postcard,postcard
+img_0000076.jpg,id piece,id piece
+img_0000210.jpg,id piece,id piece
+img_0000095.jpg,id piece,id piece
+img_0001594.jpg,other_types,questionnaire
+img_0000666.jpg,postcard,postcard
+img_0001278.jpg,invoice,other_types
+img_0000113.jpg,id piece,id piece
+img_0000374.jpg,pay,pay
+img_0001576.jpg,other_types,other_types
+img_0000563.jpg,pay,pay
+img_0000659.jpg,postcard,postcard
+img_0001535.jpg,scientific_doc,scientific_doc
+img_0000306.jpg,passport,passport
+img_0001461.jpg,other_types,other_types
+img_0000433.jpg,pay,invoice
+img_0000138.jpg,id piece,id piece
+img_0000305.jpg,passport,passport
+img_0001329.jpg,specification,specification
+img_0000241.jpg,residence proof,other_types
+img_0000212.jpg,residence proof,other_types
+img_0000738.jpg,postcard,postcard
+img_0001147.jpg,invoice,scientific_doc
+img_0000492.jpg,pay,pay

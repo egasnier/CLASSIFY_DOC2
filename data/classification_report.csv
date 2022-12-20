@@ -1,0 +1,674 @@
+index,precision,recall,f1-score,support,classifier,category
+advertisement,1.0,0.4,0.5714285714285715,5.0,MNB,classic target english
+budget,1.0,0.125,0.2222222222222222,8.0,MNB,classic target english
+email,0.75,1.0,0.8571428571428571,3.0,MNB,classic target english
+file folder,0.0,0.0,0.0,1.0,MNB,classic target english
+form,0.3333333333333333,0.2,0.25,5.0,MNB,classic target english
+handwritten,0.5,0.2,0.2857142857142857,5.0,MNB,classic target english
+id piece,0.8518518518518519,1.0,0.92,23.0,MNB,classic target english
+invoice,0.6153846153846154,0.8888888888888888,0.7272727272727274,18.0,MNB,classic target english
+letter,0.6666666666666666,0.2,0.3076923076923076,10.0,MNB,classic target english
+memo,0.8,0.6666666666666666,0.7272727272727272,6.0,MNB,classic target english
+news article,0.1428571428571428,0.25,0.1818181818181818,4.0,MNB,classic target english
+passport,1.0,0.6153846153846154,0.761904761904762,13.0,MNB,classic target english
+pay,0.7166666666666667,0.9555555555555556,0.8190476190476191,45.0,MNB,classic target english
+postcard,0.6666666666666666,0.5333333333333333,0.5925925925925926,30.0,MNB,classic target english
+presentation,0.0,0.0,0.0,6.0,MNB,classic target english
+questionnaire,0.5,0.8333333333333334,0.625,6.0,MNB,classic target english
+residence proof,1.0,0.5555555555555556,0.7142857142857143,9.0,MNB,classic target english
+resume,0.6666666666666666,1.0,0.8,4.0,MNB,classic target english
+scientific publication,0.6,0.75,0.6666666666666665,4.0,MNB,classic target english
+scientific report,0.6,0.75,0.6666666666666665,4.0,MNB,classic target english
+specification,0.5,1.0,0.6666666666666666,2.0,MNB,classic target english
+accuracy,0.6777251184834123,0.6777251184834123,0.6777251184834123,0.6777251184834123,MNB,classic target english
+macro avg,0.6147663623854099,0.5677960927960928,0.5411140270664079,211.0,MNB,classic target english
+weighted avg,0.7006679821845699,0.6777251184834123,0.648761054637832,211.0,MNB,classic target english
+advertisement,0.1304347826086956,0.6,0.2142857142857142,5.0,MNB,classic target english ros
+budget,0.4444444444444444,0.5,0.4705882352941176,8.0,MNB,classic target english ros
+email,0.75,1.0,0.8571428571428571,3.0,MNB,classic target english ros
+file folder,0.0,0.0,0.0,1.0,MNB,classic target english ros
+form,0.1428571428571428,0.2,0.1666666666666666,5.0,MNB,classic target english ros
+handwritten,0.5,0.2,0.2857142857142857,5.0,MNB,classic target english ros
+id piece,0.9583333333333334,1.0,0.9787234042553192,23.0,MNB,classic target english ros
+invoice,0.6818181818181818,0.8333333333333334,0.7499999999999999,18.0,MNB,classic target english ros
+letter,0.5,0.3,0.3749999999999999,10.0,MNB,classic target english ros
+memo,0.5,0.3333333333333333,0.4,6.0,MNB,classic target english ros
+news article,0.1428571428571428,0.25,0.1818181818181818,4.0,MNB,classic target english ros
+passport,1.0,0.8461538461538461,0.9166666666666666,13.0,MNB,classic target english ros
+pay,1.0,0.8666666666666667,0.9285714285714286,45.0,MNB,classic target english ros
+postcard,0.7222222222222222,0.4333333333333333,0.5416666666666666,30.0,MNB,classic target english ros
+presentation,0.0,0.0,0.0,6.0,MNB,classic target english ros
+questionnaire,0.5555555555555556,0.8333333333333334,0.6666666666666667,6.0,MNB,classic target english ros
+residence proof,0.8,0.4444444444444444,0.5714285714285714,9.0,MNB,classic target english ros
+resume,0.8,1.0,0.888888888888889,4.0,MNB,classic target english ros
+scientific publication,0.4285714285714285,0.75,0.5454545454545454,4.0,MNB,classic target english ros
+scientific report,0.6666666666666666,0.5,0.5714285714285715,4.0,MNB,classic target english ros
+specification,0.5,0.5,0.5,2.0,MNB,classic target english ros
+accuracy,0.6540284360189573,0.6540284360189573,0.6540284360189573,0.6540284360189573,MNB,classic target english ros
+macro avg,0.5344648048064198,0.5424094424094424,0.5147957786166261,211.0,MNB,classic target english ros
+weighted avg,0.7172454505908038,0.6540284360189573,0.666709502040692,211.0,MNB,classic target english ros
+advertisement,0.5,0.2,0.2857142857142857,5.0,MNB,classic target french
+budget,0.75,0.3,0.4285714285714285,10.0,MNB,classic target french
+email,0.4,0.4,0.4000000000000001,5.0,MNB,classic target french
+form,0.0,0.0,0.0,2.0,MNB,classic target french
+handwritten,1.0,0.2857142857142857,0.4444444444444445,7.0,MNB,classic target french
+id piece,0.8846153846153846,1.0,0.9387755102040816,23.0,MNB,classic target french
+invoice,0.7777777777777778,0.875,0.823529411764706,16.0,MNB,classic target french
+letter,0.3636363636363636,0.5,0.4210526315789474,8.0,MNB,classic target french
+memo,0.875,0.7777777777777778,0.823529411764706,9.0,MNB,classic target french
+news article,0.1666666666666666,0.25,0.2,4.0,MNB,classic target french
+passport,0.7272727272727273,0.6153846153846154,0.6666666666666667,13.0,MNB,classic target french
+pay,0.6119402985074627,1.0,0.7592592592592593,41.0,MNB,classic target french
+postcard,0.9166666666666666,0.3793103448275862,0.5365853658536586,29.0,MNB,classic target french
+presentation,0.2,0.3333333333333333,0.25,3.0,MNB,classic target french
+questionnaire,0.5,0.5,0.5,6.0,MNB,classic target french
+residence proof,1.0,0.8888888888888888,0.9411764705882352,9.0,MNB,classic target french
+resume,0.6666666666666666,0.8,0.7272727272727272,5.0,MNB,classic target french
+scientific publication,0.25,0.1428571428571428,0.1818181818181818,7.0,MNB,classic target french
+scientific report,0.4,0.3333333333333333,0.3636363636363636,6.0,MNB,classic target french
+specification,0.5,0.75,0.6,4.0,MNB,classic target french
+accuracy,0.6556603773584906,0.6556603773584906,0.6556603773584906,0.6556603773584906,MNB,classic target french
+macro avg,0.5745121275904858,0.5165799861058482,0.5146016079568845,212.0,MNB,classic target french
+weighted avg,0.6908118878602546,0.6556603773584906,0.6332200902787525,212.0,MNB,classic target french
+advertisement,0.1290322580645161,0.8,0.2222222222222222,5.0,MNB,classic target french ros
+budget,0.6666666666666666,0.4,0.5,10.0,MNB,classic target french ros
+email,0.25,0.2,0.2222222222222222,5.0,MNB,classic target french ros
+file folder,0.0,0.0,0.0,0.0,MNB,classic target french ros
+form,0.0,0.0,0.0,2.0,MNB,classic target french ros
+handwritten,1.0,0.2857142857142857,0.4444444444444445,7.0,MNB,classic target french ros
+id piece,0.8846153846153846,1.0,0.9387755102040816,23.0,MNB,classic target french ros
+invoice,0.875,0.875,0.875,16.0,MNB,classic target french ros
+letter,0.4,0.5,0.4444444444444445,8.0,MNB,classic target french ros
+memo,0.7777777777777778,0.7777777777777778,0.7777777777777778,9.0,MNB,classic target french ros
+news article,0.1818181818181818,0.5,0.2666666666666666,4.0,MNB,classic target french ros
+passport,0.8888888888888888,0.6153846153846154,0.7272727272727274,13.0,MNB,classic target french ros
+pay,1.0,0.926829268292683,0.9620253164556964,41.0,MNB,classic target french ros
+postcard,1.0,0.3103448275862069,0.4736842105263158,29.0,MNB,classic target french ros
+presentation,0.25,0.3333333333333333,0.2857142857142857,3.0,MNB,classic target french ros
+questionnaire,0.5,0.5,0.5,6.0,MNB,classic target french ros
+residence proof,1.0,0.8888888888888888,0.9411764705882352,9.0,MNB,classic target french ros
+resume,0.6666666666666666,0.8,0.7272727272727272,5.0,MNB,classic target french ros
+scientific publication,0.6,0.4285714285714285,0.5,7.0,MNB,classic target french ros
+scientific report,0.6666666666666666,0.3333333333333333,0.4444444444444444,6.0,MNB,classic target french ros
+specification,0.6,0.75,0.6666666666666665,4.0,MNB,classic target french ros
+accuracy,0.660377358490566,0.660377358490566,0.660377358490566,0.660377358490566,MNB,classic target french ros
+macro avg,0.5874824995792738,0.5345322742325026,0.5199909589010931,212.0,MNB,classic target french ros
+weighted avg,0.7975195444306825,0.660377358490566,0.6838643673909222,212.0,MNB,classic target french ros
+advertisement,0.6,0.75,0.6666666666666665,4.0,MNB,classic target
+budget,0.2,0.2,0.2,5.0,MNB,classic target
+email,0.625,0.8333333333333334,0.7142857142857143,6.0,MNB,classic target
+form,1.0,0.8,0.888888888888889,5.0,MNB,classic target
+handwritten,1.0,0.125,0.2222222222222222,8.0,MNB,classic target
+id piece,0.8928571428571429,0.8620689655172413,0.8771929824561403,29.0,MNB,classic target
+invoice,0.7222222222222222,0.8125,0.7647058823529411,16.0,MNB,classic target
+letter,0.5714285714285714,0.4444444444444444,0.5,9.0,MNB,classic target
+memo,0.375,0.375,0.375,8.0,MNB,classic target
+news article,0.625,0.8333333333333334,0.7142857142857143,6.0,MNB,classic target
+passport,0.7692307692307693,0.5555555555555556,0.6451612903225806,18.0,MNB,classic target
+pay,0.7058823529411765,1.0,0.8275862068965517,48.0,MNB,classic target
+postcard,0.8421052631578947,0.5714285714285714,0.6808510638297872,28.0,MNB,classic target
+presentation,0.5,0.2,0.2857142857142857,5.0,MNB,classic target
+questionnaire,0.75,0.8571428571428571,0.7999999999999999,7.0,MNB,classic target
+residence proof,1.0,0.6666666666666666,0.8,9.0,MNB,classic target
+resume,0.8,1.0,0.888888888888889,4.0,MNB,classic target
+scientific publication,0.6666666666666666,0.8,0.7272727272727272,10.0,MNB,classic target
+scientific report,0.3333333333333333,0.4,0.3636363636363636,5.0,MNB,classic target
+specification,0.8,0.6666666666666666,0.7272727272727272,6.0,MNB,classic target
+accuracy,0.7161016949152542,0.7161016949152542,0.7161016949152542,0.7161016949152542,MNB,classic target
+macro avg,0.6889363160918889,0.6376570197044336,0.63348158124961,236.0,MNB,classic target
+weighted avg,0.7367883785184515,0.7161016949152542,0.7003125061522881,236.0,MNB,classic target
+advertisement,0.1379310344827586,1.0,0.2424242424242424,4.0,MNB,classic target ros
+budget,0.1428571428571428,0.2,0.1666666666666666,5.0,MNB,classic target ros
+email,0.6666666666666666,0.6666666666666666,0.6666666666666666,6.0,MNB,classic target ros
+file folder,0.0,0.0,0.0,0.0,MNB,classic target ros
+form,0.8,0.8,0.8000000000000002,5.0,MNB,classic target ros
+handwritten,1.0,0.25,0.4,8.0,MNB,classic target ros
+id piece,0.8888888888888888,0.8275862068965517,0.8571428571428572,29.0,MNB,classic target ros
+invoice,0.8,0.5,0.6153846153846154,16.0,MNB,classic target ros
+letter,0.3636363636363636,0.4444444444444444,0.3999999999999999,9.0,MNB,classic target ros
+memo,0.25,0.25,0.25,8.0,MNB,classic target ros
+news article,0.5,0.8333333333333334,0.625,6.0,MNB,classic target ros
+passport,0.8461538461538461,0.6111111111111112,0.7096774193548387,18.0,MNB,classic target ros
+pay,0.9761904761904762,0.8541666666666666,0.9111111111111112,48.0,MNB,classic target ros
+postcard,1.0,0.5714285714285714,0.7272727272727273,28.0,MNB,classic target ros
+presentation,0.6666666666666666,0.4,0.5,5.0,MNB,classic target ros
+questionnaire,0.6666666666666666,0.8571428571428571,0.75,7.0,MNB,classic target ros
+residence proof,0.8571428571428571,0.6666666666666666,0.75,9.0,MNB,classic target ros
+resume,1.0,1.0,1.0,4.0,MNB,classic target ros
+scientific publication,0.6923076923076923,0.9,0.7826086956521738,10.0,MNB,classic target ros
+scientific report,0.4,0.4,0.4000000000000001,5.0,MNB,classic target ros
+specification,0.8,0.6666666666666666,0.7272727272727272,6.0,MNB,classic target ros
+accuracy,0.673728813559322,0.673728813559322,0.673728813559322,0.673728813559322,MNB,classic target ros
+macro avg,0.6407194429361918,0.6047244376677874,0.5848203680451727,236.0,MNB,classic target ros
+weighted avg,0.7950923289321888,0.673728813559322,0.7060051422535675,236.0,MNB,classic target ros
+budget,1.0,0.125,0.2222222222222222,8.0,MNB,classic target_min english
+email,1.0,0.3333333333333333,0.5,3.0,MNB,classic target_min english
+file folder,0.0,0.0,0.0,1.0,MNB,classic target_min english
+id piece,0.8518518518518519,1.0,0.92,23.0,MNB,classic target_min english
+invoice,0.6818181818181818,0.8333333333333334,0.7499999999999999,18.0,MNB,classic target_min english
+other_types,0.6666666666666666,0.7567567567567568,0.7088607594936708,37.0,MNB,classic target_min english
+passport,1.0,0.6153846153846154,0.761904761904762,13.0,MNB,classic target_min english
+pay,0.7166666666666667,0.9555555555555556,0.8190476190476191,45.0,MNB,classic target_min english
+postcard,0.7272727272727273,0.5333333333333333,0.6153846153846153,30.0,MNB,classic target_min english
+questionnaire,1.0,0.8333333333333334,0.9090909090909092,6.0,MNB,classic target_min english
+residence proof,1.0,0.4444444444444444,0.6153846153846153,9.0,MNB,classic target_min english
+resume,0.8,1.0,0.888888888888889,4.0,MNB,classic target_min english
+scientific_doc,0.5384615384615384,0.5833333333333334,0.5599999999999999,12.0,MNB,classic target_min english
+specification,1.0,0.5,0.6666666666666666,2.0,MNB,classic target_min english
+accuracy,0.7393364928909952,0.7393364928909952,0.7393364928909952,0.7393364928909952,MNB,classic target_min english
+macro avg,0.7844812594812595,0.6081291456291457,0.6383893612917121,211.0,MNB,classic target_min english
+weighted avg,0.7642734919986104,0.7393364928909952,0.7203363269402026,211.0,MNB,classic target_min english
+budget,0.1428571428571428,0.5,0.2222222222222222,8.0,MNB,classic target_min english ros
+email,0.5,0.3333333333333333,0.4,3.0,MNB,classic target_min english ros
+file folder,0.0,0.0,0.0,1.0,MNB,classic target_min english ros
+id piece,0.92,1.0,0.9583333333333334,23.0,MNB,classic target_min english ros
+invoice,0.6666666666666666,0.7777777777777778,0.717948717948718,18.0,MNB,classic target_min english ros
+other_types,0.7586206896551724,0.5945945945945946,0.6666666666666667,37.0,MNB,classic target_min english ros
+passport,1.0,0.7692307692307693,0.8695652173913044,13.0,MNB,classic target_min english ros
+pay,1.0,0.8666666666666667,0.9285714285714286,45.0,MNB,classic target_min english ros
+postcard,0.75,0.5,0.6,30.0,MNB,classic target_min english ros
+questionnaire,0.625,0.8333333333333334,0.7142857142857143,6.0,MNB,classic target_min english ros
+residence proof,0.8333333333333334,0.5555555555555556,0.6666666666666667,9.0,MNB,classic target_min english ros
+resume,0.8,1.0,0.888888888888889,4.0,MNB,classic target_min english ros
+scientific_doc,0.5,0.6666666666666666,0.5714285714285715,12.0,MNB,classic target_min english ros
+specification,1.0,1.0,1.0,2.0,MNB,classic target_min english ros
+accuracy,0.7203791469194313,0.7203791469194313,0.7203791469194313,0.7203791469194313,MNB,classic target_min english ros
+macro avg,0.6783198451794511,0.6712256212256211,0.6574698162431083,211.0,MNB,classic target_min english ros
+weighted avg,0.7906247519435948,0.7203791469194313,0.7412211509213363,211.0,MNB,classic target_min english ros
+budget,0.75,0.3,0.4285714285714285,10.0,MNB,classic target_min french
+email,0.0,0.0,0.0,5.0,MNB,classic target_min french
+id piece,0.8846153846153846,1.0,0.9387755102040816,23.0,MNB,classic target_min french
+invoice,0.7777777777777778,0.875,0.823529411764706,16.0,MNB,classic target_min french
+other_types,0.5263157894736842,0.5882352941176471,0.5555555555555555,34.0,MNB,classic target_min french
+passport,0.8888888888888888,0.6153846153846154,0.7272727272727274,13.0,MNB,classic target_min french
+pay,0.6119402985074627,1.0,0.7592592592592593,41.0,MNB,classic target_min french
+postcard,0.9166666666666666,0.3793103448275862,0.5365853658536586,29.0,MNB,classic target_min french
+questionnaire,0.75,0.5,0.6,6.0,MNB,classic target_min french
+residence proof,1.0,0.8888888888888888,0.9411764705882352,9.0,MNB,classic target_min french
+resume,0.6666666666666666,0.8,0.7272727272727272,5.0,MNB,classic target_min french
+scientific_doc,0.5714285714285714,0.4705882352941176,0.5161290322580646,17.0,MNB,classic target_min french
+specification,0.75,0.75,0.75,4.0,MNB,classic target_min french
+accuracy,0.6886792452830188,0.6886792452830188,0.6886792452830188,0.6886792452830188,MNB,classic target_min french
+macro avg,0.699561541848085,0.6282621060394504,0.6387790375846495,212.0,MNB,classic target_min french
+weighted avg,0.7120820533397051,0.6886792452830188,0.6677792764693792,212.0,MNB,classic target_min french
+budget,0.1388888888888889,0.5,0.2173913043478261,10.0,MNB,classic target_min french ros
+email,0.2,0.2,0.2,5.0,MNB,classic target_min french ros
+id piece,0.8846153846153846,1.0,0.9387755102040816,23.0,MNB,classic target_min french ros
+invoice,0.8235294117647058,0.875,0.8484848484848485,16.0,MNB,classic target_min french ros
+other_types,0.5833333333333334,0.4117647058823529,0.4827586206896552,34.0,MNB,classic target_min french ros
+passport,0.8,0.6153846153846154,0.6956521739130435,13.0,MNB,classic target_min french ros
+pay,0.9743589743589745,0.926829268292683,0.95,41.0,MNB,classic target_min french ros
+postcard,1.0,0.3103448275862069,0.4736842105263158,29.0,MNB,classic target_min french ros
+questionnaire,0.375,0.5,0.4285714285714285,6.0,MNB,classic target_min french ros
+residence proof,1.0,0.8888888888888888,0.9411764705882352,9.0,MNB,classic target_min french ros
+resume,0.6666666666666666,0.8,0.7272727272727272,5.0,MNB,classic target_min french ros
+scientific_doc,0.631578947368421,0.7058823529411765,0.6666666666666667,17.0,MNB,classic target_min french ros
+specification,0.6,0.75,0.6666666666666665,4.0,MNB,classic target_min french ros
+accuracy,0.6698113207547169,0.6698113207547169,0.6698113207547169,0.6698113207547169,MNB,classic target_min french ros
+macro avg,0.6675362774612595,0.652622666075071,0.6336231252254998,212.0,MNB,classic target_min french ros
+weighted avg,0.7679893398298389,0.6698113207547169,0.6847358550311181,212.0,MNB,classic target_min french ros
+budget,0.0344827586206896,0.2,0.0588235294117647,5.0,MNB,classic target_min ros
+email,0.3333333333333333,0.6666666666666666,0.4444444444444444,6.0,MNB,classic target_min ros
+file folder,0.0,0.0,0.0,0.0,MNB,classic target_min ros
+id piece,0.8928571428571429,0.8620689655172413,0.8771929824561403,29.0,MNB,classic target_min ros
+invoice,0.9,0.5625,0.6923076923076923,16.0,MNB,classic target_min ros
+other_types,0.6470588235294118,0.5641025641025641,0.6027397260273972,39.0,MNB,classic target_min ros
+passport,0.7857142857142857,0.6111111111111112,0.6875000000000001,18.0,MNB,classic target_min ros
+pay,0.975609756097561,0.8333333333333334,0.8988764044943819,48.0,MNB,classic target_min ros
+postcard,1.0,0.5714285714285714,0.7272727272727273,28.0,MNB,classic target_min ros
+questionnaire,0.6666666666666666,0.8571428571428571,0.75,7.0,MNB,classic target_min ros
+residence proof,0.875,0.7777777777777778,0.823529411764706,9.0,MNB,classic target_min ros
+resume,1.0,1.0,1.0,4.0,MNB,classic target_min ros
+scientific_doc,0.6086956521739131,0.6666666666666666,0.6363636363636365,21.0,MNB,classic target_min ros
+specification,0.8333333333333334,0.8333333333333334,0.8333333333333334,6.0,MNB,classic target_min ros
+accuracy,0.6949152542372882,0.6949152542372882,0.6949152542372882,0.6949152542372882,MNB,classic target_min ros
+macro avg,0.6823394108804528,0.6432951319342946,0.6451702777054447,236.0,MNB,classic target_min ros
+weighted avg,0.8093091773367228,0.6949152542372882,0.736835839177248,236.0,MNB,classic target_min ros
+budget,0.3333333333333333,0.2,0.25,5.0,MNB,classic target_min
+email,1.0,0.3333333333333333,0.5,6.0,MNB,classic target_min
+id piece,0.8928571428571429,0.8620689655172413,0.8771929824561403,29.0,MNB,classic target_min
+invoice,0.9,0.5625,0.6923076923076923,16.0,MNB,classic target_min
+other_types,0.6153846153846154,0.8205128205128205,0.7032967032967034,39.0,MNB,classic target_min
+passport,0.9090909090909092,0.5555555555555556,0.6896551724137931,18.0,MNB,classic target_min
+pay,0.7164179104477612,1.0,0.8347826086956522,48.0,MNB,classic target_min
+postcard,0.9375,0.5357142857142857,0.6818181818181818,28.0,MNB,classic target_min
+questionnaire,0.8571428571428571,0.8571428571428571,0.8571428571428571,7.0,MNB,classic target_min
+residence proof,0.875,0.7777777777777778,0.823529411764706,9.0,MNB,classic target_min
+resume,1.0,1.0,1.0,4.0,MNB,classic target_min
+scientific_doc,0.5833333333333334,0.6666666666666666,0.6222222222222222,21.0,MNB,classic target_min
+specification,1.0,0.6666666666666666,0.8,6.0,MNB,classic target_min
+accuracy,0.75,0.75,0.75,0.75,MNB,classic target_min
+macro avg,0.816927700122304,0.6798414560682464,0.7178421409321498,236.0,MNB,classic target_min
+weighted avg,0.784263643536664,0.75,0.7417236855127978,236.0,MNB,classic target_min
+advertisement,1.0,0.4,0.5714285714285715,5.0,SVC,classic target english
+budget,0.75,0.375,0.5,8.0,SVC,classic target english
+email,0.75,1.0,0.8571428571428571,3.0,SVC,classic target english
+file folder,0.0,0.0,0.0,1.0,SVC,classic target english
+form,0.5,0.2,0.2857142857142857,5.0,SVC,classic target english
+handwritten,0.3333333333333333,0.2,0.25,5.0,SVC,classic target english
+id piece,0.88,0.9565217391304348,0.9166666666666666,23.0,SVC,classic target english
+invoice,0.8823529411764706,0.8333333333333334,0.8571428571428571,18.0,SVC,classic target english
+letter,1.0,0.2,0.3333333333333333,10.0,SVC,classic target english
+memo,0.3333333333333333,0.1666666666666666,0.2222222222222222,6.0,SVC,classic target english
+news article,0.25,0.25,0.25,4.0,SVC,classic target english
+passport,1.0,0.6923076923076923,0.8181818181818181,13.0,SVC,classic target english
+pay,0.925,0.8222222222222222,0.8705882352941177,45.0,SVC,classic target english
+postcard,0.417910447761194,0.9333333333333332,0.5773195876288659,30.0,SVC,classic target english
+presentation,0.0,0.0,0.0,6.0,SVC,classic target english
+questionnaire,0.6666666666666666,0.6666666666666666,0.6666666666666666,6.0,SVC,classic target english
+residence proof,1.0,0.3333333333333333,0.5,9.0,SVC,classic target english
+resume,0.8,1.0,0.888888888888889,4.0,SVC,classic target english
+scientific publication,0.6,0.75,0.6666666666666665,4.0,SVC,classic target english
+scientific report,0.5,0.75,0.6,4.0,SVC,classic target english
+specification,1.0,0.5,0.6666666666666666,2.0,SVC,classic target english
+accuracy,0.6777251184834123,0.6777251184834123,0.6777251184834123,0.6777251184834123,SVC,classic target english
+macro avg,0.6470760343938571,0.5252088089044611,0.5380299677925945,211.0,SVC,classic target english
+weighted avg,0.7407646115671987,0.6777251184834123,0.6629084914442405,211.0,SVC,classic target english
+advertisement,1.0,0.4,0.5714285714285715,5.0,SVC,classic target english ros
+budget,0.75,0.375,0.5,8.0,SVC,classic target english ros
+email,0.75,1.0,0.8571428571428571,3.0,SVC,classic target english ros
+file folder,0.0,0.0,0.0,1.0,SVC,classic target english ros
+form,0.5,0.2,0.2857142857142857,5.0,SVC,classic target english ros
+handwritten,0.25,0.2,0.2222222222222222,5.0,SVC,classic target english ros
+id piece,0.88,0.9565217391304348,0.9166666666666666,23.0,SVC,classic target english ros
+invoice,0.8823529411764706,0.8333333333333334,0.8571428571428571,18.0,SVC,classic target english ros
+letter,1.0,0.2,0.3333333333333333,10.0,SVC,classic target english ros
+memo,0.3333333333333333,0.1666666666666666,0.2222222222222222,6.0,SVC,classic target english ros
+news article,0.25,0.25,0.25,4.0,SVC,classic target english ros
+passport,1.0,0.6923076923076923,0.8181818181818181,13.0,SVC,classic target english ros
+pay,0.925,0.8222222222222222,0.8705882352941177,45.0,SVC,classic target english ros
+postcard,0.4242424242424242,0.9333333333333332,0.5833333333333333,30.0,SVC,classic target english ros
+presentation,0.0,0.0,0.0,6.0,SVC,classic target english ros
+questionnaire,0.6666666666666666,0.6666666666666666,0.6666666666666666,6.0,SVC,classic target english ros
+residence proof,1.0,0.3333333333333333,0.5,9.0,SVC,classic target english ros
+resume,0.8,1.0,0.888888888888889,4.0,SVC,classic target english ros
+scientific publication,0.6,0.75,0.6666666666666665,4.0,SVC,classic target english ros
+scientific report,0.5,0.75,0.6,4.0,SVC,classic target english ros
+specification,1.0,0.5,0.6666666666666666,2.0,SVC,classic target english ros
+accuracy,0.6777251184834123,0.6777251184834123,0.6777251184834123,0.6777251184834123,SVC,classic target english ros
+macro avg,0.6434093031151855,0.5252088089044611,0.536993585312913,211.0,SVC,classic target english ros
+weighted avg,0.7396901690447829,0.6777251184834123,0.6631052851989567,211.0,SVC,classic target english ros
+advertisement,0.2,0.2,0.2,5.0,SVC,classic target french
+budget,0.8,0.4,0.5333333333333333,10.0,SVC,classic target french
+email,0.6,0.6,0.6,5.0,SVC,classic target french
+form,0.0,0.0,0.0,2.0,SVC,classic target french
+handwritten,0.5,0.1428571428571428,0.2222222222222222,7.0,SVC,classic target french
+id piece,0.9130434782608696,0.9130434782608696,0.9130434782608696,23.0,SVC,classic target french
+invoice,0.7,0.875,0.7777777777777777,16.0,SVC,classic target french
+letter,0.6666666666666666,0.25,0.3636363636363636,8.0,SVC,classic target french
+memo,1.0,0.5555555555555556,0.7142857142857143,9.0,SVC,classic target french
+news article,0.4,0.5,0.4444444444444445,4.0,SVC,classic target french
+passport,0.6363636363636364,0.5384615384615384,0.5833333333333334,13.0,SVC,classic target french
+pay,0.9736842105263158,0.902439024390244,0.9367088607594938,41.0,SVC,classic target french
+postcard,0.4259259259259259,0.7931034482758621,0.5542168674698795,29.0,SVC,classic target french
+presentation,0.3333333333333333,0.6666666666666666,0.4444444444444444,3.0,SVC,classic target french
+questionnaire,0.6,0.5,0.5454545454545454,6.0,SVC,classic target french
+residence proof,1.0,0.5555555555555556,0.7142857142857143,9.0,SVC,classic target french
+resume,0.75,0.6,0.6666666666666665,5.0,SVC,classic target french
+scientific publication,0.5,0.4285714285714285,0.4615384615384615,7.0,SVC,classic target french
+scientific report,0.4,0.3333333333333333,0.3636363636363636,6.0,SVC,classic target french
+specification,0.75,0.75,0.75,4.0,SVC,classic target french
+accuracy,0.6650943396226415,0.6650943396226415,0.6650943396226415,0.6650943396226415,SVC,classic target french
+macro avg,0.6074508625538374,0.5252293585964097,0.5394514295774814,212.0,SVC,classic target french
+weighted avg,0.7095705900447709,0.6650943396226415,0.6617453396718176,212.0,SVC,classic target french
+advertisement,0.2,0.2,0.2,5.0,SVC,classic target french ros
+budget,0.8,0.4,0.5333333333333333,10.0,SVC,classic target french ros
+email,0.6,0.6,0.6,5.0,SVC,classic target french ros
+file folder,0.0,0.0,0.0,0.0,SVC,classic target french ros
+form,0.0,0.0,0.0,2.0,SVC,classic target french ros
+handwritten,0.6666666666666666,0.2857142857142857,0.4,7.0,SVC,classic target french ros
+id piece,0.9130434782608696,0.9130434782608696,0.9130434782608696,23.0,SVC,classic target french ros
+invoice,0.7368421052631579,0.875,0.7999999999999999,16.0,SVC,classic target french ros
+letter,0.6666666666666666,0.25,0.3636363636363636,8.0,SVC,classic target french ros
+memo,1.0,0.5555555555555556,0.7142857142857143,9.0,SVC,classic target french ros
+news article,0.4,0.5,0.4444444444444445,4.0,SVC,classic target french ros
+passport,0.7,0.5384615384615384,0.608695652173913,13.0,SVC,classic target french ros
+pay,0.9736842105263158,0.902439024390244,0.9367088607594938,41.0,SVC,classic target french ros
+postcard,0.4230769230769231,0.3793103448275862,0.4,29.0,SVC,classic target french ros
+presentation,0.3333333333333333,0.6666666666666666,0.4444444444444444,3.0,SVC,classic target french ros
+questionnaire,0.6,0.5,0.5454545454545454,6.0,SVC,classic target french ros
+residence proof,1.0,0.6666666666666666,0.8,9.0,SVC,classic target french ros
+resume,0.75,0.6,0.6666666666666665,5.0,SVC,classic target french ros
+scientific publication,0.5,0.4285714285714285,0.4615384615384615,7.0,SVC,classic target french ros
+scientific report,0.4,0.3333333333333333,0.3636363636363636,6.0,SVC,classic target french ros
+specification,0.75,0.75,0.75,4.0,SVC,classic target french ros
+accuracy,0.6179245283018868,0.6179245283018868,0.6179245283018868,0.6179245283018868,SVC,classic target french ros
+macro avg,0.5911101611330445,0.4926077296403892,0.5212327775540292,212.0,SVC,classic target french ros
+weighted avg,0.7213667787029256,0.6179245283018868,0.6533908564629949,212.0,SVC,classic target french ros
+advertisement,0.4285714285714285,0.75,0.5454545454545454,4.0,SVC,classic target
+budget,0.25,0.2,0.2222222222222222,5.0,SVC,classic target
+email,1.0,0.6666666666666666,0.8,6.0,SVC,classic target
+form,0.75,0.6,0.6666666666666665,5.0,SVC,classic target
+handwritten,0.2,0.125,0.1538461538461538,8.0,SVC,classic target
+id piece,0.8571428571428571,0.8275862068965517,0.8421052631578947,29.0,SVC,classic target
+invoice,0.7058823529411765,0.75,0.7272727272727272,16.0,SVC,classic target
+letter,0.4,0.2222222222222222,0.2857142857142857,9.0,SVC,classic target
+memo,0.5714285714285714,0.5,0.5333333333333333,8.0,SVC,classic target
+news article,0.8,0.6666666666666666,0.7272727272727272,6.0,SVC,classic target
+passport,0.9,0.5,0.6428571428571429,18.0,SVC,classic target
+pay,0.975609756097561,0.8333333333333334,0.8988764044943819,48.0,SVC,classic target
+postcard,0.4333333333333333,0.9285714285714286,0.5909090909090909,28.0,SVC,classic target
+presentation,0.5,0.2,0.2857142857142857,5.0,SVC,classic target
+questionnaire,1.0,0.8571428571428571,0.923076923076923,7.0,SVC,classic target
+residence proof,0.875,0.7777777777777778,0.823529411764706,9.0,SVC,classic target
+resume,0.8,1.0,0.888888888888889,4.0,SVC,classic target
+scientific publication,0.8,0.8,0.8000000000000002,10.0,SVC,classic target
+scientific report,0.5,0.4,0.4444444444444445,5.0,SVC,classic target
+specification,1.0,0.6666666666666666,0.8,6.0,SVC,classic target
+accuracy,0.6991525423728814,0.6991525423728814,0.6991525423728814,0.6991525423728814,SVC,classic target
+macro avg,0.6873484149757465,0.6135816912972085,0.6301092258545211,236.0,SVC,classic target
+weighted avg,0.7443837983725942,0.6991525423728814,0.6994016213266505,236.0,SVC,classic target
+advertisement,0.4285714285714285,0.75,0.5454545454545454,4.0,SVC,classic target ros
+budget,0.2,0.2,0.2,5.0,SVC,classic target ros
+email,1.0,0.6666666666666666,0.8,6.0,SVC,classic target ros
+file folder,0.0,0.0,0.0,0.0,SVC,classic target ros
+form,0.75,0.6,0.6666666666666665,5.0,SVC,classic target ros
+handwritten,0.2,0.125,0.1538461538461538,8.0,SVC,classic target ros
+id piece,0.9230769230769232,0.8275862068965517,0.8727272727272727,29.0,SVC,classic target ros
+invoice,0.6666666666666666,0.75,0.7058823529411765,16.0,SVC,classic target ros
+letter,0.4,0.2222222222222222,0.2857142857142857,9.0,SVC,classic target ros
+memo,0.5714285714285714,0.5,0.5333333333333333,8.0,SVC,classic target ros
+news article,0.8,0.6666666666666666,0.7272727272727272,6.0,SVC,classic target ros
+passport,0.9,0.5,0.6428571428571429,18.0,SVC,classic target ros
+pay,0.975609756097561,0.8333333333333334,0.8988764044943819,48.0,SVC,classic target ros
+postcard,0.4324324324324324,0.5714285714285714,0.4923076923076923,28.0,SVC,classic target ros
+presentation,0.5,0.2,0.2857142857142857,5.0,SVC,classic target ros
+questionnaire,1.0,0.8571428571428571,0.923076923076923,7.0,SVC,classic target ros
+residence proof,0.75,0.6666666666666666,0.7058823529411765,9.0,SVC,classic target ros
+resume,0.8,1.0,0.888888888888889,4.0,SVC,classic target ros
+scientific publication,0.8,0.8,0.8000000000000002,10.0,SVC,classic target ros
+scientific report,0.5,0.4,0.4444444444444445,5.0,SVC,classic target ros
+specification,1.0,0.6666666666666666,0.8,6.0,SVC,classic target ros
+accuracy,0.652542372881356,0.652542372881356,0.652542372881356,0.652542372881356,SVC,classic target ros
+macro avg,0.6475136084892184,0.5620657075090572,0.5891878796514809,236.0,SVC,classic target ros
+weighted avg,0.7438940174678083,0.652542372881356,0.6850584793217568,236.0,SVC,classic target ros
+budget,1.0,0.25,0.4,8.0,SVC,classic target_min english
+email,1.0,0.6666666666666666,0.8,3.0,SVC,classic target_min english
+file folder,0.0,0.0,0.0,1.0,SVC,classic target_min english
+id piece,0.88,0.9565217391304348,0.9166666666666666,23.0,SVC,classic target_min english
+invoice,0.9375,0.8333333333333334,0.8823529411764706,18.0,SVC,classic target_min english
+other_types,0.6410256410256411,0.6756756756756757,0.6578947368421052,37.0,SVC,classic target_min english
+passport,1.0,0.6923076923076923,0.8181818181818181,13.0,SVC,classic target_min english
+pay,0.9487179487179488,0.8222222222222222,0.8809523809523809,45.0,SVC,classic target_min english
+postcard,0.5094339622641509,0.9,0.6506024096385542,30.0,SVC,classic target_min english
+questionnaire,0.75,0.5,0.6,6.0,SVC,classic target_min english
+residence proof,1.0,0.3333333333333333,0.5,9.0,SVC,classic target_min english
+resume,0.8,1.0,0.888888888888889,4.0,SVC,classic target_min english
+scientific_doc,0.4615384615384615,0.5,0.48,12.0,SVC,classic target_min english
+specification,1.0,0.5,0.6666666666666666,2.0,SVC,classic target_min english
+accuracy,0.7393364928909952,0.7393364928909952,0.7393364928909952,0.7393364928909952,SVC,classic target_min english
+macro avg,0.780586858110443,0.6164329044763827,0.6530147506438251,211.0,SVC,classic target_min english
+weighted avg,0.7916906958134714,0.7393364928909952,0.7367486895494502,211.0,SVC,classic target_min english
+budget,0.6666666666666666,0.25,0.3636363636363636,8.0,SVC,classic target_min english ros
+email,1.0,0.6666666666666666,0.8,3.0,SVC,classic target_min english ros
+file folder,0.0,0.0,0.0,1.0,SVC,classic target_min english ros
+id piece,0.88,0.9565217391304348,0.9166666666666666,23.0,SVC,classic target_min english ros
+invoice,0.9375,0.8333333333333334,0.8823529411764706,18.0,SVC,classic target_min english ros
+other_types,0.631578947368421,0.6486486486486487,0.64,37.0,SVC,classic target_min english ros
+passport,1.0,0.6923076923076923,0.8181818181818181,13.0,SVC,classic target_min english ros
+pay,0.9487179487179488,0.8222222222222222,0.8809523809523809,45.0,SVC,classic target_min english ros
+postcard,0.5094339622641509,0.9,0.6506024096385542,30.0,SVC,classic target_min english ros
+questionnaire,0.75,0.5,0.6,6.0,SVC,classic target_min english ros
+residence proof,1.0,0.3333333333333333,0.5,9.0,SVC,classic target_min english ros
+resume,0.8,1.0,0.888888888888889,4.0,SVC,classic target_min english ros
+scientific_doc,0.4615384615384615,0.5,0.48,12.0,SVC,classic target_min english ros
+specification,1.0,0.5,0.6666666666666666,2.0,SVC,classic target_min english ros
+accuracy,0.7345971563981043,0.7345971563981043,0.7345971563981043,0.7345971563981043,SVC,classic target_min english ros
+macro avg,0.7561025704682607,0.6145024025458808,0.6491391525577006,211.0,SVC,classic target_min english ros
+weighted avg,0.7773959359462496,0.7345971563981043,0.7322320338429714,211.0,SVC,classic target_min english ros
+budget,1.0,0.3,0.4615384615384615,10.0,SVC,classic target_min french
+email,0.5,0.2,0.2857142857142857,5.0,SVC,classic target_min french
+id piece,0.9130434782608696,0.9130434782608696,0.9130434782608696,23.0,SVC,classic target_min french
+invoice,0.7,0.875,0.7777777777777777,16.0,SVC,classic target_min french
+other_types,0.5277777777777778,0.5588235294117647,0.5428571428571428,34.0,SVC,classic target_min french
+passport,0.7,0.5384615384615384,0.608695652173913,13.0,SVC,classic target_min french
+pay,0.9736842105263158,0.902439024390244,0.9367088607594938,41.0,SVC,classic target_min french
+postcard,0.5348837209302325,0.7931034482758621,0.6388888888888888,29.0,SVC,classic target_min french
+questionnaire,0.75,0.5,0.6,6.0,SVC,classic target_min french
+residence proof,1.0,0.5555555555555556,0.7142857142857143,9.0,SVC,classic target_min french
+resume,0.75,0.6,0.6666666666666665,5.0,SVC,classic target_min french
+scientific_doc,0.6,0.7058823529411765,0.6486486486486486,17.0,SVC,classic target_min french
+specification,0.75,0.75,0.75,4.0,SVC,classic target_min french
+accuracy,0.7122641509433962,0.7122641509433962,0.7122641509433962,0.7122641509433962,SVC,classic target_min french
+macro avg,0.7461068605765534,0.6301776097920777,0.6572942751978357,212.0,SVC,classic target_min french
+weighted avg,0.7435241744481137,0.7122641509433962,0.7083979230266652,212.0,SVC,classic target_min french
+budget,1.0,0.3,0.4615384615384615,10.0,SVC,classic target_min french ros
+email,0.5,0.2,0.2857142857142857,5.0,SVC,classic target_min french ros
+file folder,0.0,0.0,0.0,0.0,SVC,classic target_min french ros
+id piece,0.9130434782608696,0.9130434782608696,0.9130434782608696,23.0,SVC,classic target_min french ros
+invoice,0.7368421052631579,0.875,0.7999999999999999,16.0,SVC,classic target_min french ros
+other_types,0.5277777777777778,0.5588235294117647,0.5428571428571428,34.0,SVC,classic target_min french ros
+passport,0.7,0.5384615384615384,0.608695652173913,13.0,SVC,classic target_min french ros
+pay,0.9736842105263158,0.902439024390244,0.9367088607594938,41.0,SVC,classic target_min french ros
+postcard,0.6666666666666666,0.3448275862068966,0.4545454545454545,29.0,SVC,classic target_min french ros
+questionnaire,0.75,0.5,0.6,6.0,SVC,classic target_min french ros
+residence proof,1.0,0.6666666666666666,0.8,9.0,SVC,classic target_min french ros
+resume,0.75,0.6,0.6666666666666665,5.0,SVC,classic target_min french ros
+scientific_doc,0.6,0.7058823529411765,0.6486486486486486,17.0,SVC,classic target_min french ros
+specification,0.75,0.75,0.75,4.0,SVC,classic target_min french ros
+accuracy,0.6556603773584906,0.6556603773584906,0.6556603773584906,0.6556603773584906,SVC,classic target_min french ros
+macro avg,0.7048581598924849,0.5610817268813684,0.604887046511781,212.0,SVC,classic target_min french ros
+weighted avg,0.7643316230828643,0.6556603773584906,0.6884970953428186,212.0,SVC,classic target_min french ros
+budget,0.3333333333333333,0.2,0.25,5.0,SVC,classic target_min ros
+email,1.0,0.5,0.6666666666666666,6.0,SVC,classic target_min ros
+file folder,0.0,0.0,0.0,0.0,SVC,classic target_min ros
+id piece,0.925925925925926,0.8620689655172413,0.8928571428571429,29.0,SVC,classic target_min ros
+invoice,0.8571428571428571,0.75,0.7999999999999999,16.0,SVC,classic target_min ros
+other_types,0.6590909090909091,0.7435897435897436,0.6987951807228915,39.0,SVC,classic target_min ros
+passport,0.9,0.5,0.6428571428571429,18.0,SVC,classic target_min ros
+pay,0.975609756097561,0.8333333333333334,0.8988764044943819,48.0,SVC,classic target_min ros
+postcard,0.6153846153846154,0.5714285714285714,0.5925925925925927,28.0,SVC,classic target_min ros
+questionnaire,1.0,0.8571428571428571,0.923076923076923,7.0,SVC,classic target_min ros
+residence proof,0.7777777777777778,0.7777777777777778,0.7777777777777778,9.0,SVC,classic target_min ros
+resume,1.0,1.0,1.0,4.0,SVC,classic target_min ros
+scientific_doc,0.6818181818181818,0.7142857142857143,0.6976744186046512,21.0,SVC,classic target_min ros
+specification,1.0,0.6666666666666666,0.8,6.0,SVC,classic target_min ros
+accuracy,0.7245762711864406,0.7245762711864406,0.7245762711864406,0.7245762711864406,SVC,classic target_min ros
+macro avg,0.7661488111836544,0.6411638306958503,0.6886553035464408,236.0,SVC,classic target_min ros
+weighted avg,0.81574393656349,0.7245762711864406,0.7602485551823623,236.0,SVC,classic target_min ros
+budget,0.5,0.2,0.2857142857142857,5.0,SVC,classic target_min
+email,1.0,0.5,0.6666666666666666,6.0,SVC,classic target_min
+id piece,0.8620689655172413,0.8620689655172413,0.8620689655172413,29.0,SVC,classic target_min
+invoice,0.8571428571428571,0.75,0.7999999999999999,16.0,SVC,classic target_min
+other_types,0.6444444444444445,0.7435897435897436,0.6904761904761906,39.0,SVC,classic target_min
+passport,0.9,0.5,0.6428571428571429,18.0,SVC,classic target_min
+pay,0.975609756097561,0.8333333333333334,0.8988764044943819,48.0,SVC,classic target_min
+postcard,0.5416666666666666,0.9285714285714286,0.6842105263157894,28.0,SVC,classic target_min
+questionnaire,1.0,0.8571428571428571,0.923076923076923,7.0,SVC,classic target_min
+residence proof,0.875,0.7777777777777778,0.823529411764706,9.0,SVC,classic target_min
+resume,1.0,1.0,1.0,4.0,SVC,classic target_min
+scientific_doc,0.6818181818181818,0.7142857142857143,0.6976744186046512,21.0,SVC,classic target_min
+specification,1.0,0.6666666666666666,0.8,6.0,SVC,classic target_min
+accuracy,0.7669491525423728,0.7669491525423728,0.7669491525423728,0.7669491525423728,SVC,classic target_min
+macro avg,0.8336731439759194,0.7179566528372893,0.7519346873452292,236.0,SVC,classic target_min
+weighted avg,0.8039692195980951,0.7669491525423728,0.7684618624545014,236.0,SVC,classic target_min
+budget,0.75,0.375,0.5,8.0,ResNet50,ComputerVision target_min
+email,0.7,0.875,0.7777777777777777,8.0,ResNet50,ComputerVision target_min
+file folder,0.8,1.0,0.888888888888889,4.0,ResNet50,ComputerVision target_min
+id piece,0.96875,0.9117647058823528,0.9393939393939394,34.0,ResNet50,ComputerVision target_min
+invoice,0.5238095238095238,0.7857142857142857,0.6285714285714286,14.0,ResNet50,ComputerVision target_min
+other_types,0.6885245901639344,0.75,0.7179487179487181,56.0,ResNet50,ComputerVision target_min
+passport,0.9090909090909092,0.9090909090909092,0.9090909090909092,22.0,ResNet50,ComputerVision target_min
+pay,0.9361702127659576,0.9166666666666666,0.9263157894736844,48.0,ResNet50,ComputerVision target_min
+postcard,0.8888888888888888,0.9230769230769232,0.9056603773584906,26.0,ResNet50,ComputerVision target_min
+questionnaire,0.6666666666666666,0.2,0.3076923076923076,10.0,ResNet50,ComputerVision target_min
+residence proof,0.8571428571428571,0.8571428571428571,0.8571428571428571,7.0,ResNet50,ComputerVision target_min
+resume,0.0,0.0,0.0,1.0,ResNet50,ComputerVision target_min
+scientific_doc,0.4117647058823529,0.4666666666666667,0.4374999999999999,15.0,ResNet50,ComputerVision target_min
+specification,0.5,0.1111111111111111,0.1818181818181818,9.0,ResNet50,ComputerVision target_min
+accuracy,0.7709923664122137,0.7709923664122137,0.7709923664122137,0.7709923664122137,ResNet50,ComputerVision target_min
+macro avg,0.685772025315078,0.6486595803822695,0.6412715125112273,262.0,ResNet50,ComputerVision target_min
+weighted avg,0.7825138509973004,0.7709923664122137,0.7633908944337566,262.0,ResNet50,ComputerVision target_min
+budget,0.25,0.125,0.1666666666666666,8.0,ResNet152,ComputerVision target_min
+email,0.7777777777777778,0.875,0.823529411764706,8.0,ResNet152,ComputerVision target_min
+file folder,0.5,0.75,0.6,4.0,ResNet152,ComputerVision target_min
+id piece,0.8205128205128205,0.9411764705882352,0.8767123287671232,34.0,ResNet152,ComputerVision target_min
+invoice,0.4285714285714285,0.6428571428571429,0.5142857142857143,14.0,ResNet152,ComputerVision target_min
+other_types,0.6666666666666666,0.7857142857142857,0.721311475409836,56.0,ResNet152,ComputerVision target_min
+passport,0.8947368421052632,0.7727272727272727,0.8292682926829269,22.0,ResNet152,ComputerVision target_min
+pay,0.9111111111111112,0.8541666666666666,0.8817204301075269,48.0,ResNet152,ComputerVision target_min
+postcard,0.8461538461538461,0.8461538461538461,0.8461538461538461,26.0,ResNet152,ComputerVision target_min
+questionnaire,0.6666666666666666,0.2,0.3076923076923076,10.0,ResNet152,ComputerVision target_min
+residence proof,0.6666666666666666,0.5714285714285714,0.6153846153846153,7.0,ResNet152,ComputerVision target_min
+resume,0.0,0.0,0.0,1.0,ResNet152,ComputerVision target_min
+scientific_doc,0.6363636363636364,0.4666666666666667,0.5384615384615385,15.0,ResNet152,ComputerVision target_min
+specification,0.0,0.0,0.0,9.0,ResNet152,ComputerVision target_min
+accuracy,0.7213740458015268,0.7213740458015268,0.7213740458015268,0.7213740458015268,ResNet152,ComputerVision target_min
+macro avg,0.576087675899706,0.5593493516287634,0.5515133305269148,262.0,ResNet152,ComputerVision target_min
+weighted avg,0.7166004701962917,0.7213740458015268,0.7089742441763669,262.0,ResNet152,ComputerVision target_min
+budget,0.6666666666666666,0.75,0.7058823529411765,8.0,EfficientNetB2,ComputerVision target_min
+email,0.7,0.875,0.7777777777777777,8.0,EfficientNetB2,ComputerVision target_min
+file folder,0.6666666666666666,1.0,0.8,4.0,EfficientNetB2,ComputerVision target_min
+id piece,0.8787878787878788,0.8529411764705882,0.8656716417910447,34.0,EfficientNetB2,ComputerVision target_min
+invoice,0.45,0.6428571428571429,0.5294117647058824,14.0,EfficientNetB2,ComputerVision target_min
+other_types,0.6379310344827587,0.6607142857142857,0.6491228070175439,56.0,EfficientNetB2,ComputerVision target_min
+passport,0.7894736842105263,0.6818181818181818,0.7317073170731707,22.0,EfficientNetB2,ComputerVision target_min
+pay,0.9534883720930232,0.8541666666666666,0.9010989010989012,48.0,EfficientNetB2,ComputerVision target_min
+postcard,0.78125,0.9615384615384616,0.8620689655172413,26.0,EfficientNetB2,ComputerVision target_min
+questionnaire,0.4,0.2,0.2666666666666666,10.0,EfficientNetB2,ComputerVision target_min
+residence proof,0.8333333333333334,0.7142857142857143,0.7692307692307692,7.0,EfficientNetB2,ComputerVision target_min
+resume,0.0,0.0,0.0,1.0,EfficientNetB2,ComputerVision target_min
+scientific_doc,0.5333333333333333,0.5333333333333333,0.5333333333333333,15.0,EfficientNetB2,ComputerVision target_min
+specification,0.3333333333333333,0.1111111111111111,0.1666666666666666,9.0,EfficientNetB2,ComputerVision target_min
+accuracy,0.7213740458015268,0.7213740458015268,0.7213740458015268,0.7213740458015268,EfficientNetB2,ComputerVision target_min
+macro avg,0.6160188787791087,0.6312690052711061,0.6113313545585839,262.0,EfficientNetB2,ComputerVision target_min
+weighted avg,0.7243687864742459,0.7213740458015268,0.7159547410251883,262.0,EfficientNetB2,ComputerVision target_min
+budget,1.0,0.5,0.6666666666666666,8.0,EfficientNetB1,ComputerVision target_min
+email,0.5833333333333334,0.875,0.7000000000000001,8.0,EfficientNetB1,ComputerVision target_min
+file folder,0.6666666666666666,1.0,0.8,4.0,EfficientNetB1,ComputerVision target_min
+id piece,0.9285714285714286,0.7647058823529411,0.8387096774193549,34.0,EfficientNetB1,ComputerVision target_min
+invoice,0.5882352941176471,0.7142857142857143,0.6451612903225806,14.0,EfficientNetB1,ComputerVision target_min
+other_types,0.7068965517241379,0.7321428571428571,0.719298245614035,56.0,EfficientNetB1,ComputerVision target_min
+passport,0.7272727272727273,0.7272727272727273,0.7272727272727273,22.0,EfficientNetB1,ComputerVision target_min
+pay,0.9583333333333334,0.9583333333333334,0.9583333333333334,48.0,EfficientNetB1,ComputerVision target_min
+postcard,0.8064516129032258,0.9615384615384616,0.8771929824561403,26.0,EfficientNetB1,ComputerVision target_min
+questionnaire,0.1428571428571428,0.1,0.1176470588235294,10.0,EfficientNetB1,ComputerVision target_min
+residence proof,0.8333333333333334,0.7142857142857143,0.7692307692307692,7.0,EfficientNetB1,ComputerVision target_min
+resume,0.0,0.0,0.0,1.0,EfficientNetB1,ComputerVision target_min
+scientific_doc,0.6153846153846154,0.5333333333333333,0.5714285714285715,15.0,EfficientNetB1,ComputerVision target_min
+specification,0.2,0.1111111111111111,0.1428571428571428,9.0,EfficientNetB1,ComputerVision target_min
+accuracy,0.7404580152671756,0.7404580152671756,0.7404580152671756,0.7404580152671756,EfficientNetB1,ComputerVision target_min
+macro avg,0.6255240028212565,0.6208577953325852,0.6095570332446322,262.0,EfficientNetB1,ComputerVision target_min
+weighted avg,0.7480407589584678,0.7404580152671756,0.7373575135814758,262.0,EfficientNetB1,ComputerVision target_min
+budget,0.5,0.625,0.5555555555555556,8.0,EfficientNetB0,ComputerVision target_min
+email,0.6363636363636364,0.875,0.7368421052631579,8.0,EfficientNetB0,ComputerVision target_min
+file folder,0.6666666666666666,1.0,0.8,4.0,EfficientNetB0,ComputerVision target_min
+id piece,0.9090909090909092,0.8823529411764706,0.8955223880597014,34.0,EfficientNetB0,ComputerVision target_min
+invoice,0.5,0.6428571428571429,0.5625000000000001,14.0,EfficientNetB0,ComputerVision target_min
+other_types,0.6349206349206349,0.7142857142857143,0.6722689075630252,56.0,EfficientNetB0,ComputerVision target_min
+passport,0.7894736842105263,0.6818181818181818,0.7317073170731707,22.0,EfficientNetB0,ComputerVision target_min
+pay,0.9166666666666666,0.9166666666666666,0.9166666666666666,48.0,EfficientNetB0,ComputerVision target_min
+postcard,0.71875,0.8846153846153846,0.7931034482758621,26.0,EfficientNetB0,ComputerVision target_min
+questionnaire,0.4,0.2,0.2666666666666666,10.0,EfficientNetB0,ComputerVision target_min
+residence proof,0.5,0.1428571428571428,0.2222222222222222,7.0,EfficientNetB0,ComputerVision target_min
+resume,0.0,0.0,0.0,1.0,EfficientNetB0,ComputerVision target_min
+scientific_doc,0.5333333333333333,0.5333333333333333,0.5333333333333333,15.0,EfficientNetB0,ComputerVision target_min
+specification,0.0,0.0,0.0,9.0,EfficientNetB0,ComputerVision target_min
+accuracy,0.7175572519083969,0.7175572519083969,0.7175572519083969,0.7175572519083969,EfficientNetB0,ComputerVision target_min
+macro avg,0.5503761093751696,0.5784847505435742,0.5490277579056687,262.0,EfficientNetB0,ComputerVision target_min
+weighted avg,0.6899929132628008,0.7175572519083969,0.6963720387676082,262.0,EfficientNetB0,ComputerVision target_min
+budget,0.625,0.625,0.625,8.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+email,0.5833333333333334,0.875,0.7000000000000001,8.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+file folder,0.6666666666666666,1.0,0.8,4.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+id piece,0.967741935483871,0.8823529411764706,0.923076923076923,34.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+invoice,0.5714285714285714,0.5714285714285714,0.5714285714285714,14.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+other_types,0.7272727272727273,0.7142857142857143,0.7207207207207208,56.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+passport,0.8181818181818182,0.8181818181818182,0.8181818181818182,22.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+pay,0.9,0.9375,0.9183673469387756,48.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+postcard,0.7857142857142857,0.8461538461538461,0.8148148148148148,26.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+questionnaire,1.0,0.2,0.3333333333333333,10.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+residence proof,0.6666666666666666,0.5714285714285714,0.6153846153846153,7.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+resume,0.0,0.0,0.0,1.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+scientific_doc,0.5333333333333333,0.5333333333333333,0.5333333333333333,15.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+specification,0.3333333333333333,0.2222222222222222,0.2666666666666666,9.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+accuracy,0.7442748091603053,0.7442748091603053,0.7442748091603053,0.7442748091603053,EfficientNetB0 AugmentedData,ComputerVision target_min
+macro avg,0.6556194765296148,0.6283490727293247,0.6171648674199696,262.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+weighted avg,0.7681643891690678,0.7442748091603053,0.7437130504742284,262.0,EfficientNetB0 AugmentedData,ComputerVision target_min
+budget,0.6666666666666666,0.5,0.5714285714285715,8.0,ResNet50 AugmentedData,ComputerVision target_min
+email,0.7272727272727273,1.0,0.8421052631578948,8.0,ResNet50 AugmentedData,ComputerVision target_min
+file folder,0.5714285714285714,1.0,0.7272727272727273,4.0,ResNet50 AugmentedData,ComputerVision target_min
+id piece,0.8857142857142857,0.9117647058823528,0.8985507246376812,34.0,ResNet50 AugmentedData,ComputerVision target_min
+invoice,0.45,0.6428571428571429,0.5294117647058824,14.0,ResNet50 AugmentedData,ComputerVision target_min
+other_types,0.7307692307692307,0.6785714285714286,0.7037037037037038,56.0,ResNet50 AugmentedData,ComputerVision target_min
+passport,0.9047619047619048,0.8636363636363636,0.8837209302325582,22.0,ResNet50 AugmentedData,ComputerVision target_min
+pay,0.9069767441860463,0.8125,0.8571428571428572,48.0,ResNet50 AugmentedData,ComputerVision target_min
+postcard,0.8888888888888888,0.9230769230769232,0.9056603773584906,26.0,ResNet50 AugmentedData,ComputerVision target_min
+questionnaire,0.6,0.3,0.4,10.0,ResNet50 AugmentedData,ComputerVision target_min
+residence proof,0.7777777777777778,1.0,0.8750000000000001,7.0,ResNet50 AugmentedData,ComputerVision target_min
+resume,0.1666666666666666,1.0,0.2857142857142857,1.0,ResNet50 AugmentedData,ComputerVision target_min
+scientific_doc,0.5,0.5333333333333333,0.5161290322580646,15.0,ResNet50 AugmentedData,ComputerVision target_min
+specification,0.25,0.1111111111111111,0.1538461538461538,9.0,ResNet50 AugmentedData,ComputerVision target_min
+accuracy,0.7480916030534351,0.7480916030534351,0.7480916030534351,0.7480916030534351,ResNet50 AugmentedData,ComputerVision target_min
+macro avg,0.6447802474380547,0.7340607863191897,0.653549027961348,262.0,ResNet50 AugmentedData,ComputerVision target_min
+weighted avg,0.7583452668797955,0.7480916030534351,0.7452534767566732,262.0,ResNet50 AugmentedData,ComputerVision target_min
+advertisement,0.8888888888888888,0.8,0.8421052631578948,10.0,ResNet50 AugmentedData,ComputerVision target_limited
+carte postale,0.8571428571428571,0.9230769230769232,0.888888888888889,26.0,ResNet50 AugmentedData,ComputerVision target_limited
+handwritten,1.0,0.5555555555555556,0.7142857142857143,9.0,ResNet50 AugmentedData,ComputerVision target_limited
+id_pieces,0.9393939393939394,0.9117647058823528,0.9253731343283584,34.0,ResNet50 AugmentedData,ComputerVision target_limited
+passeport,0.85,0.7727272727272727,0.8095238095238095,22.0,ResNet50 AugmentedData,ComputerVision target_limited
+paye,0.9166666666666666,0.9166666666666666,0.9166666666666666,48.0,ResNet50 AugmentedData,ComputerVision target_limited
+text,0.9243697478991596,0.9734513274336284,0.9482758620689656,113.0,ResNet50 AugmentedData,ComputerVision target_limited
+accuracy,0.9122137404580152,0.9122137404580152,0.9122137404580152,0.9122137404580152,ResNet50 AugmentedData,ComputerVision target_limited
+macro avg,0.9109231571416446,0.8361774930489142,0.863588476988614,262.0,ResNet50 AugmentedData,ComputerVision target_limited
+weighted avg,0.913235796284741,0.9122137404580152,0.9098783128310788,262.0,ResNet50 AugmentedData,ComputerVision target_limited
+budget,0.3333333333333333,0.25,0.2857142857142857,8.0,VGG16,ComputerVision target_min
+email,0.5454545454545454,0.75,0.631578947368421,8.0,VGG16,ComputerVision target_min
+file folder,0.6666666666666666,1.0,0.8,4.0,VGG16,ComputerVision target_min
+id piece,0.8378378378378378,0.9117647058823528,0.8732394366197184,34.0,VGG16,ComputerVision target_min
+invoice,0.3636363636363636,0.5714285714285714,0.4444444444444444,14.0,VGG16,ComputerVision target_min
+other_types,0.6851851851851852,0.6607142857142857,0.6727272727272727,56.0,VGG16,ComputerVision target_min
+passport,0.9375,0.6818181818181818,0.7894736842105263,22.0,VGG16,ComputerVision target_min
+pay,0.8695652173913043,0.8333333333333334,0.851063829787234,48.0,VGG16,ComputerVision target_min
+postcard,0.7272727272727273,0.9230769230769232,0.8135593220338984,26.0,VGG16,ComputerVision target_min
+questionnaire,0.5,0.1,0.1666666666666666,10.0,VGG16,ComputerVision target_min
+residence proof,0.8333333333333334,0.7142857142857143,0.7692307692307692,7.0,VGG16,ComputerVision target_min
+resume,0.0,0.0,0.0,1.0,VGG16,ComputerVision target_min
+scientific_doc,0.4444444444444444,0.5333333333333333,0.4848484848484848,15.0,VGG16,ComputerVision target_min
+specification,0.2,0.1111111111111111,0.1428571428571428,9.0,VGG16,ComputerVision target_min
+accuracy,0.6946564885496184,0.6946564885496184,0.6946564885496184,0.6946564885496184,VGG16,ComputerVision target_min
+macro avg,0.5674449753254102,0.5743475828559862,0.5518145918934904,262.0,VGG16,ComputerVision target_min
+weighted avg,0.6954883854527069,0.6946564885496184,0.6836075842355165,262.0,VGG16,ComputerVision target_min
+budget,0.75,0.375,0.5,8.0,VGG19,ComputerVision target_min
+email,0.7777777777777778,0.875,0.823529411764706,8.0,VGG19,ComputerVision target_min
+file folder,0.6666666666666666,1.0,0.8,4.0,VGG19,ComputerVision target_min
+id piece,0.9,0.7941176470588235,0.84375,34.0,VGG19,ComputerVision target_min
+invoice,0.4736842105263157,0.6428571428571429,0.5454545454545454,14.0,VGG19,ComputerVision target_min
+other_types,0.6428571428571429,0.6428571428571429,0.6428571428571429,56.0,VGG19,ComputerVision target_min
+passport,0.6956521739130435,0.7272727272727273,0.711111111111111,22.0,VGG19,ComputerVision target_min
+pay,0.8666666666666667,0.8125,0.8387096774193549,48.0,VGG19,ComputerVision target_min
+postcard,0.6857142857142857,0.9230769230769232,0.7868852459016394,26.0,VGG19,ComputerVision target_min
+questionnaire,0.25,0.1,0.1428571428571428,10.0,VGG19,ComputerVision target_min
+residence proof,0.7142857142857143,0.7142857142857143,0.7142857142857143,7.0,VGG19,ComputerVision target_min
+resume,0.1666666666666666,1.0,0.2857142857142857,1.0,VGG19,ComputerVision target_min
+scientific_doc,0.375,0.4,0.3870967741935484,15.0,VGG19,ComputerVision target_min
+specification,0.5,0.1111111111111111,0.1818181818181818,9.0,VGG19,ComputerVision target_min
+accuracy,0.683206106870229,0.683206106870229,0.683206106870229,0.683206106870229,VGG19,ComputerVision target_min
+macro avg,0.6046408075053057,0.6512913148942561,0.5860049452412409,262.0,VGG19,ComputerVision target_min
+weighted avg,0.6894849380060394,0.683206106870229,0.6741630734658394,262.0,VGG19,ComputerVision target_min
+advertisement,0.875,0.7,0.7777777777777777,10.0,ResNet50 AugmentedData,ComputerVision target_limited_corr
+carte postale,0.8947368421052632,0.918918918918919,0.9066666666666668,37.0,ResNet50 AugmentedData,ComputerVision target_limited_corr
+handwritten,0.75,0.6,0.6666666666666665,5.0,ResNet50 AugmentedData,ComputerVision target_limited_corr
+id_pieces,1.0,0.925925925925926,0.9615384615384616,27.0,ResNet50 AugmentedData,ComputerVision target_limited_corr
+passeport,0.8636363636363636,0.8636363636363636,0.8636363636363636,22.0,ResNet50 AugmentedData,ComputerVision target_limited_corr
+paye,0.9361702127659576,0.8979591836734694,0.9166666666666666,49.0,ResNet50 AugmentedData,ComputerVision target_limited_corr
+text,0.9035087719298246,0.9537037037037036,0.927927927927928,108.0,ResNet50 AugmentedData,ComputerVision target_limited_corr
+accuracy,0.9108527131782944,0.9108527131782944,0.9108527131782944,0.9108527131782944,ResNet50 AugmentedData,ComputerVision target_limited_corr
+macro avg,0.8890074557767728,0.8371634422654832,0.86012579012579,258.0,ResNet50 AugmentedData,ComputerVision target_limited_corr
+weighted avg,0.9110719029141384,0.9108527131782944,0.9098922446596864,258.0,ResNet50 AugmentedData,ComputerVision target_limited_corr
+budget,0.5,0.2222222222222222,0.30769230769230765,9.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+email,0.7142857142857143,0.625,0.6666666666666666,8.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+file folder,0.6666666666666666,0.5714285714285714,0.6153846153846153,7.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+id piece,1.0,0.9259259259259259,0.9615384615384615,27.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+invoice,0.375,0.42857142857142855,0.39999999999999997,14.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+other_types,0.5652173913043478,0.65,0.6046511627906976,40.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+passport,0.875,0.9545454545454546,0.9130434782608695,22.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+pay,0.8979591836734694,0.8979591836734694,0.8979591836734694,49.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+postcard,0.9714285714285714,0.918918918918919,0.9444444444444445,37.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+questionnaire,0.0,0.0,0.0,2.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+residence proof,0.75,0.6666666666666666,0.7058823529411765,9.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+resume,1.0,0.5,0.6666666666666666,4.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+scientific_doc,0.48148148148148145,0.65,0.553191489361702,20.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+specification,0.75,0.3,0.4285714285714285,10.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+accuracy,0.7403100775193798,0.7403100775193798,0.7403100775193798,0.7403100775193798,ResNet50 AugmentedData,ComputerVision target_min_corr
+macro avg,0.6819313577743037,0.5936598837109042,0.6189780184280361,258.0,ResNet50 AugmentedData,ComputerVision target_min_corr
+weighted avg,0.7628377318047017,0.7403100775193798,0.7424743963786508,258.0,ResNet50 AugmentedData,ComputerVision target_min_corr

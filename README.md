@@ -1,24 +1,28 @@
-# Project
-
-Classification of documents with a particular interest for ID and passport documents.
-
-
 ## Presentation
 
-This repository contains the code for our project CLASSIFY_DOC, developed during our [Data Scientist training](https://datascientest.com/en/data-scientist-course) at [DataScientest](https://datascientest.com/).
+This repository contains the code for our project py_docr, developed during our [Data Scientist training](https://datascientest.com/en/data-scientist-course) at [DataScientest](https://datascientest.com/).
 
-The goal of this project is to classify documents (ID card, passport, salary slip, invoice, ...).
+The goal of this project is to classify documents, especially National ID cards and Passports.
 
-Two different ways to reach this goal :
-- Computer Vision => Available in the notebook folder
-- OCR + NLP       => Code available soon
+This project was developed by the following team :
 
+- Rym BEN HASSINE ([GitHub](https://github.com/) / [LinkedIn](https://www.linkedin.com/in/rym-ben-hassine-136b34109/))
+- Fehrat SADOUN ([GitHub](https://github.com/) / [LinkedIn](https://www.linkedin.com/in/ferhat-sadoun-0baa54249/))
+- Bogdan POSEA ([GitHub](https://github.com/) / [LinkedIn](https://www.linkedin.com/in/bogdan-posea-a9324b38/))
+- Eric GASNIER ([GitHub](https://github.com/egasnier) / [LinkedIn](https://www.linkedin.com/in/ericgasnier))
+
+
+You can browse and run the [notebooks](./notebooks). You will need to install the dependencies (in a dedicated environment) :
+
+```
+pip install -r requirements.txt
+```
+
+
+
+** PART NOT YET FINALISED **
 
 ## Streamlit App
-
-A Streamlit App will be available in december 2022 for our project.
-
-**Add explanations on how to use the app.**
 
 To run the app :
 
